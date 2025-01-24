@@ -24,7 +24,7 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 set(CMAKE_AR "C:/Users/Jonathan/Desktop/FILES/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/ar.exe")
 set(CMAKE_C_COMPILER_AR "C:/Users/Jonathan/Desktop/FILES/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/gcc-ar.exe")
-set(CMAKE_RANLIB ":")
+set(CMAKE_RANLIB "C:/Users/Jonathan/Desktop/FILES/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/ranlib.exe")
 set(CMAKE_C_COMPILER_RANLIB "C:/Users/Jonathan/Desktop/FILES/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/gcc-ranlib.exe")
 set(CMAKE_LINKER "C:/Users/Jonathan/Desktop/FILES/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/ld.exe")
 set(CMAKE_LINKER_LINK "")
