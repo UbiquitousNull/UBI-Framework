@@ -1,0 +1,23 @@
+# CMake build files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode CMake tools
+.vscode/
+
+# CTest
+CTestTestfile.cmake
+Testing/
+
+# Compiled output
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.lib
+*.pdb
